@@ -11,8 +11,9 @@
 ```html
 <script>
   const ns = new NeuralSeekBrowser.NeuralSeekClient({
-    instance: "demo",                  // your instance
-    embedCode: "YOUR_EMBED_CODE_HERE" // browser-safe credential
+    baseUrl: "https://api.neuralseek.com/v1",   // your environment url 
+    instance: "demo",                           // your instance
+    embedCode: "YOUR_EMBED_CODE_HERE"           // browser-safe credential
   });
 </script>
 ```
