@@ -3,7 +3,7 @@
 ### 1) Include SDK in your webpage
 
 ```html
-<script src="./neuralseek.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/CerebralBlue/neuralseek-browser-sdk@refs/heads/main/neuralseek.js"></script>
 ```
 
 ### 2) Initialize client
